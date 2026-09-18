@@ -150,7 +150,7 @@ while True:
 
 
     
-    elif choice==5:
+    elif choice==6:
         print("Exit")
     else:
         print("invalid choice")
